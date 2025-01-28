@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="S31FlowAndBorderPane:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/S31FlowAndBorderPane_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="S31FlowAndBorderPane/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="S31FlowAndBorderPane" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
